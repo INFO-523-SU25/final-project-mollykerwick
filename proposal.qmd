@@ -40,6 +40,9 @@ Make sure to load the data and use inline code for some of this information.
 
 The two questions you want to answer.
 
+1. Can we predict environmental quality a region based on urbanization indicators for that region?
+
+
 ## Analysis plan
 
 -   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any).
